@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": "420aa6c4-56e9-4be5-bff7-ba55ff9dff52",
+    "NameAr": "النظام الفرعي",
+    "NameEn": "SubSystem",
+    "CreatedOn": "2023-03-15 02:21:33.4653535"
+  },
+  {
+    "Id": "df155a4b-5b0f-4f4a-9314-4e1be3229690",
+    "NameAr": "عنصر",
+    "NameEn": "Component",
+    "CreatedOn": "2023-03-15 02:21:33.4653535"
+  },
+  {
+    "Id": "b59c9693-e869-47e9-a30c-66dc9166aea1",
+    "NameAr": "جزء",
+    "NameEn": "Part",
+    "CreatedOn": "2023-03-15 02:21:33.4653535"
+  }
+]

@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="accountNotFoundOrPasswordNotValid" xml:space="preserve">
+    <value>الحساب_غير_موجود_أو_كلمة_المرور_غير_صالحة</value>
+    <comment>الحساب_غير_موجود_أو_كلمة_المرور_غير_صالحة</comment>
+  </data>
+  <data name="alternaiveUserDeletedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_دور_المجموعة_بنجاح</value>
+    <comment>تم_استرجاع_دور_المجموعة_بنجاح</comment>
+  </data>
+  <data name="alternaiveUserRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_المستخدم_البديل_بنجاح</value>
+    <comment>تم_تحديث_المستخدم_البديل_بنجاح</comment>
+  </data>
+  <data name="alternaiveUserSavedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_أدوار_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_أدوار_المستخدم_بنجاح</comment>
+  </data>
+  <data name="alternaiveUserUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_المستخدم_البديل_بنجاح</value>
+    <comment>تم_حذف_المستخدم_البديل_بنجاح</comment>
+  </data>
+  <data name="alternativesNotFound" xml:space="preserve">
+    <value>المستخدم_موجود_بالفعل_كبديل</value>
+    <comment>المستخدم_موجود_بالفعل_كبديل</comment>
+  </data>
+  <data name="anErrorOccurredPleaseContactSystemAdministrator" xml:space="preserve">
+    <value>حدث_خطأ_يرجى_التواصل_مع_مسؤول_النظام</value>
+    <comment>حدث_خطأ_يرجى_التواصل_مع_مسؤول_النظام</comment>
+  </data>
+  <data name="basicRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_البيانات_الأساسية_بنجاح</value>
+    <comment>تم_استرجاع_البيانات_الأساسية_بنجاح</comment>
+  </data>
+  <data name="codedon'tMatch" xml:space="preserve">
+    <value>الكود_لا_يتطابق</value>
+    <comment>الكود_لا_يتطابق</comment>
+  </data>
+  <data name="domainAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_النطاق_بنجاح</value>
+    <comment>تم_إضافة_النطاق_بنجاح</comment>
+  </data>
+  <data name="domainNotFound" xml:space="preserve">
+    <value>النطاق_غير_موجود</value>
+    <comment>النطاق_غير_موجود</comment>
+  </data>
+  <data name="domainNotFound1" xml:space="preserve">
+    <value>النطاق_غير_موجود</value>
+    <comment>النطاق_غير_موجود</comment>
+  </data>
+  <data name="domainNotFound2" xml:space="preserve">
+    <value>النطاق_غير_موجود</value>
+    <comment>النطاق_غير_موجود</comment>
+  </data>
+  <data name="domainRemovedSuccessfully" xml:space="preserve">
+    <value>تم_إزالة_النطاق_بنجاح</value>
+    <comment>تم_إزالة_النطاق_بنجاح</comment>
+  </data>
+  <data name="domainsNotFound" xml:space="preserve">
+    <value>النطاقات_غير_موجودة</value>
+    <comment>النطاقات_غير_موجودة</comment>
+  </data>
+  <data name="domainsRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_النطاقات_بنجاح</value>
+    <comment>تم_استرجاع_النطاقات_بنجاح</comment>
+  </data>
+  <data name="domainsUserNotFound" xml:space="preserve">
+    <value>لم_يتم_العثور_على_مستخدمي_النطاقات</value>
+    <comment>لم_يتم_العثور_على_مستخدمي_النطاقات</comment>
+  </data>
+  <data name="domainsUserRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مستخدمي_النطاقات_بنجاح</value>
+    <comment>تم_استرجاع_مستخدمي_النطاقات_بنجاح</comment>
+  </data>
+  <data name="domainsUserRetrievedSuccessfully1" xml:space="preserve">
+    <value>تم_استرجاع_مستخدمي_النطاقات_بنجاح</value>
+    <comment>تم_استرجاع_مستخدمي_النطاقات_بنجاح</comment>
+  </data>
+  <data name="domainUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_النطاق_بنجاح</value>
+    <comment>تم_تحديث_النطاق_بنجاح</comment>
+  </data>
+  <data name="faildedtofind" xml:space="preserve">
+    <value>فشل_العثور</value>
+    <comment>فشل_العثور</comment>
+  </data>
+  <data name="failedUserAdd" xml:space="preserve">
+    <value>فشل_في_إضافة_المستخدم</value>
+    <comment>فشل_في_إضافة_المستخدم</comment>
+  </data>
+  <data name="failedUserAdd1" xml:space="preserve">
+    <value>فشل_في_إضافة_المستخدم</value>
+    <comment>فشل_في_إضافة_المستخدم</comment>
+  </data>
+  <data name="forgetPasswordSuccess" xml:space="preserve">
+    <value>نجاح_نسيان_كلمة_المرور</value>
+    <comment>نجاح_نسيان_كلمة_المرور</comment>
+  </data>
+  <data name="groupAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_المجموعة_بنجاح</value>
+    <comment>تم_إضافة_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupDeletedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_المجموعة_بنجاح</value>
+    <comment>تم_حذف_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupFailedToFind" xml:space="preserve">
+    <value>فشل_العثور_على_المجموعة</value>
+    <comment>فشل_العثور_على_المجموعة</comment>
+  </data>
+  <data name="grouplogAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_سجل_للمجموعة_بنجاح</value>
+    <comment>تم_إضافة_سجل_للمجموعة_بنجاح</comment>
+  </data>
+  <data name="groupNotFound" xml:space="preserve">
+    <value>المجموعة_غير_موجودة</value>
+    <comment>المجموعة_غير_موجودة</comment>
+  </data>
+  <data name="groupRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_المجموعة_بنجاح</value>
+    <comment>تم_استرجاع_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupRoleRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_دور_المجموعة_بنجاح</value>
+    <comment>تم_استرجاع_دور_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupsRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_المجموعات_بنجاح</value>
+    <comment>تم_استرجاع_المجموعات_بنجاح</comment>
+  </data>
+  <data name="groupsRetrivedSuccessfully1" xml:space="preserve">
+    <value>تم_استرجاع_المجموعات_بنجاح</value>
+    <comment>تم_استرجاع_المجموعات_بنجاح</comment>
+  </data>
+  <data name="groupUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_المجموعة_بنجاح</value>
+    <comment>تم_تحديث_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupUsersAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_مستخدمي_المجموعة_بنجاح</value>
+    <comment>تم_إضافة_مستخدمي_المجموعة_بنجاح</comment>
+  </data>
+  <data name="groupUsersAddedSuccessfully1" xml:space="preserve">
+    <value>تم_إضافة_مستخدمي_المجموعة_بنجاح</value>
+    <comment>تم_إضافة_مستخدمي_المجموعة_بنجاح</comment>
+  </data>
+  <data name="homePagesAddedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_تجربة_المستخدم_بنجاح</value>
+    <comment>تم_حذف_تجربة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="homePagesRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_صفحات_البداية_بنجاح</value>
+    <comment>تم_استرجاع_صفحات_البداية_بنجاح</comment>
+  </data>
+  <data name="mustIncludeUserToUpdate" xml:space="preserve">
+    <value>يجب_تضمين_المستخدم_للتحديث</value>
+    <comment>يجب_تضمين_المستخدم_للتحديث</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrInvalidToken" xml:space="preserve">
+    <value>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_الرمز_غير_صالح</value>
+    <comment>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_الرمز_غير_صالح</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrOldPasswordIsIncorrect" xml:space="preserve">
+    <value>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_كلمة_المرور_القديمة_غير_صحيحة</value>
+    <comment>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_كلمة_المرور_القديمة_غير_صحيحة</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrOldPasswordIsIncorrect1" xml:space="preserve">
+    <value>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_كلمة_المرور_القديمة_غير_صحيحة</value>
+    <comment>كلمة_المرور_الجديدة_لا_تتطابق_مع_معايير_كلمة_المرور_أو_كلمة_المرور_القديمة_غير_صحيحة</comment>
+  </data>
+  <data name="ObjectNotFound" xml:space="preserve">
+    <value>الكائن_غير_موجود</value>
+    <comment>الكائن_غير_موجود</comment>
+  </data>
+  <data name="orgsRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_المؤسسات_بنجاح</value>
+    <comment>تم_استرجاع_المؤسسات_بنجاح</comment>
+  </data>
+  <data name="orgUsersRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مستخدمي_المؤسسة_بنجاح</value>
+    <comment>تم_استرجاع_مستخدمي_المؤسسة_بنجاح</comment>
+  </data>
+  <data name="passwordChangedSuccessfully" xml:space="preserve">
+    <value>تم_تغيير_كلمة_المرور_بنجاح</value>
+    <comment>تم_تغيير_كلمة_المرور_بنجاح</comment>
+  </data>
+  <data name="passwordChangedSuccessfully1" xml:space="preserve">
+    <value>تم_تغيير_كلمة_المرور_بنجاح</value>
+    <comment>تم_تغيير_كلمة_المرور_بنجاح</comment>
+  </data>
+  <data name="passwordIsNotCorrect" xml:space="preserve">
+    <value>كلمة_المرور_غير_صحيحة</value>
+    <comment>كلمة_المرور_غير_صحيحة</comment>
+  </data>
+  <data name="passwordResetedSuccessfully" xml:space="preserve">
+    <value>تم_إعادة_تعيين_كلمة_المرور_بنجاح</value>
+    <comment>تم_إعادة_تعيين_كلمة_المرور_بنجاح</comment>
+  </data>
+  <data name="permissionAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_الصلاحية_بنجاح</value>
+    <comment>تم_إضافة_الصلاحية_بنجاح</comment>
+  </data>
+  <data name="permissionDeletedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_الصلاحية_بنجاح</value>
+    <comment>تم_حذف_الصلاحية_بنجاح</comment>
+  </data>
+  <data name="permissionNotFound" xml:space="preserve">
+    <value>الصلاحية_غير_موجودة</value>
+    <comment>الصلاحية_غير_موجودة</comment>
+  </data>
+  <data name="permissionRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_الصلاحية_بنجاح</value>
+    <comment>تم_استرجاع_الصلاحية_بنجاح</comment>
+  </data>
+  <data name="permissionsRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_الصلاحيات_بنجاح</value>
+    <comment>تم_استرجاع_الصلاحيات_بنجاح</comment>
+  </data>
+  <data name="permissionUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_الصلاحية_بنجاح</value>
+    <comment>تم_تحديث_الصلاحية_بنجاح</comment>
+  </data>
+  <data name="quickAccessAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_وصول_سريع_بنجاح</value>
+    <comment>تم_إضافة_وصول_سريع_بنجاح</comment>
+  </data>
+  <data name="quickAccessIsFoundBefore" xml:space="preserve">
+    <value>الوصول_السريع_موجود_بالفعل</value>
+    <comment>الوصول_السريع_موجود_بالفعل</comment>
+  </data>
+  <data name="quickAccessMustBeAtleastHave6Items" xml:space="preserve">
+    <value>يجب_أن_يحتوي_الوصول_السريع_على_6_عناصر_على_الأقل</value>
+    <comment>يجب_أن_يحتوي_الوصول_السريع_على_6_عناصر_على_الأقل</comment>
+  </data>
+  <data name="quickAccessNotFound" xml:space="preserve">
+    <value>الوصول_السريع_غير_موجود</value>
+    <comment>الوصول_السريع_غير_موجود</comment>
+  </data>
+  <data name="quickAccessRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_وصول_سريع_بنجاح</value>
+    <comment>تم_استرجاع_وصول_سريع_بنجاح</comment>
+  </data>
+  <data name="quickAccessUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_وصول_سريع_بنجاح</value>
+    <comment>تم_تحديث_وصول_سريع_بنجاح</comment>
+  </data>
+  <data name="roleAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_الدور_بنجاح</value>
+    <comment>تم_إضافة_الدور_بنجاح</comment>
+  </data>
+  <data name="roleCategoriesRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_فئات_الأدوار_بنجاح</value>
+    <comment>تم_استرجاع_فئات_الأدوار_بنجاح</comment>
+  </data>
+  <data name="roleCategoryAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_فئة_الدور_بنجاح</value>
+    <comment>تم_إضافة_فئة_الدور_بنجاح</comment>
+  </data>
+  <data name="roleDeletedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_الدور_بنجاح</value>
+    <comment>تم_حذف_الدور_بنجاح</comment>
+  </data>
+  <data name="roleRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_الدور_بنجاح</value>
+    <comment>تم_استرجاع_الدور_بنجاح</comment>
+  </data>
+  <data name="roleRetrivedSuccessfully1" xml:space="preserve">
+    <value>تم_استرجاع_الدور_بنجاح</value>
+    <comment>تم_استرجاع_الدور_بنجاح</comment>
+  </data>
+  <data name="rolesRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_الأدوار_بنجاح</value>
+    <comment>تم_استرجاع_الأدوار_بنجاح</comment>
+  </data>
+  <data name="roleUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_الدور_بنجاح</value>
+    <comment>تم_تحديث_الدور_بنجاح</comment>
+  </data>
+  <data name="serviceAccountNotFoundOrConnectionToADNotAllowed" xml:space="preserve">
+    <value>حساب_الخدمة_غير_موجود_أو_غير_مسموح_بالاتصال_بنطاق_النشر</value>
+    <comment>حساب_الخدمة_غير_موجود_أو_غير_مسموح_بالاتصال_بنطاق_النشر</comment>
+  </data>
+  <data name="serviceAccountNotFoundOrConnectionToADNotAllowed1" xml:space="preserve">
+    <value>حساب_الخدمة_غير_موجود_أو_غير_مسموح_بالاتصال_بنطاق_النشر</value>
+    <comment>حساب_الخدمة_غير_موجود_أو_غير_مسموح_بالاتصال_بنطاق_النشر</comment>
+  </data>
+  <data name="userAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_المستخدم_بنجاح</value>
+    <comment>تم_إضافة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userAddedSuccessfully1" xml:space="preserve">
+    <value>تم_إضافة_المستخدم_بنجاح</value>
+    <comment>تم_إضافة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userAddedSuccessfully2" xml:space="preserve">
+    <value>تم_استرجاع_المستخدم_البديل_بنجاح</value>
+    <comment>تم_استرجاع_المستخدم_البديل_بنجاح</comment>
+  </data>
+  <data name="userAlreadyAlternative" xml:space="preserve">
+    <value>تم_حفظ_المستخدم_البديل_بنجاح</value>
+    <comment>تم_حفظ_المستخدم_البديل_بنجاح</comment>
+  </data>
+  <data name="userAlreadyAlternative1" xml:space="preserve">
+    <value>تم_استرجاع_دور_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_دور_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userBasicInformationRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_وظيفة_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_وظيفة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userBasicInformationUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_تجربة_المستخدم_بنجاح</value>
+    <comment>تم_إضافة_تجربة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userCountRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_عدد_المستخدمين_بنجاح</value>
+    <comment>تم_استرجاع_عدد_المستخدمين_بنجاح</comment>
+  </data>
+  <data name="userDeletedSuccessfully" xml:space="preserve">
+    <value>المستخدم_موجود_بالفعل_كبديل</value>
+    <comment>المستخدم_موجود_بالفعل_كبديل</comment>
+  </data>
+  <data name="userExperienceAddedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_المستخدم_بنجاح</value>
+    <comment>تم_حذف_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userExperienceDeletedSuccessfully" xml:space="preserve">
+    <value>البدائل_غير_موجودة</value>
+    <comment>البدائل_غير_موجودة</comment>
+  </data>
+  <data name="userExperienceRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_هيكل_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_هيكل_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userExperienceUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_صفحات_البداية_بنجاح</value>
+    <comment>تم_إضافة_صفحات_البداية_بنجاح</comment>
+  </data>
+  <data name="userGroupsRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مجموعات_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_مجموعات_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userHierarchyUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_المعلومات_الأساسية_للمستخدم_بنجاح</value>
+    <comment>تم_تحديث_المعلومات_الأساسية_للمستخدم_بنجاح</comment>
+  </data>
+  <data name="userHomePagesRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_صفحات_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_صفحات_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userImageAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_صورة_المستخدم_بنجاح</value>
+    <comment>تم_إضافة_صورة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userJobRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مهام_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_مهام_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userJobUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userLoggedInSuccessfully" xml:space="preserve">
+    <value>تم_تسجيل_الدخول_بنجاح</value>
+    <comment>تم_تسجيل_الدخول_بنجاح</comment>
+  </data>
+  <data name="userLoggedInSuccessfully1" xml:space="preserve">
+    <value>تم_تسجيل_الدخول_بنجاح</value>
+    <comment>تم_تسجيل_الدخول_بنجاح</comment>
+  </data>
+  <data name="userNameNotFound" xml:space="preserve">
+    <value>اسم_المستخدم_غير_موجود</value>
+    <comment>اسم_المستخدم_غير_موجود</comment>
+  </data>
+  <data name="userNotFound" xml:space="preserve">
+    <value>المستخدم_غير_موجود</value>
+    <comment>المستخدم_غير_موجود</comment>
+  </data>
+  <data name="userPermissionUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_صلاحية_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_صلاحية_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userPictureIsRequired" xml:space="preserve">
+    <value>صورة_المستخدم_مطلوبة</value>
+    <comment>صورة_المستخدم_مطلوبة</comment>
+  </data>
+  <data name="userRemovedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_المستخدم_بنجاح</value>
+    <comment>تم_حذف_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRetrivedSuccessfully1" xml:space="preserve">
+    <value>تم_استرجاع_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRetrivedSuccessfully2" xml:space="preserve">
+    <value>تم_استرجاع_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRetrivedSuccessfully3" xml:space="preserve">
+    <value>تم_استرجاع_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRoleAddedSuccessfully" xml:space="preserve">
+    <value>تم_إضافة_دور_للمستخدم_بنجاح</value>
+    <comment>تم_إضافة_دور_للمستخدم_بنجاح</comment>
+  </data>
+  <data name="userRoleDeletedSuccessfully" xml:space="preserve">
+    <value>تم_حذف_دور_المستخدم_بنجاح</value>
+    <comment>تم_حذف_دور_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRoleRemovedSuccessfully" xml:space="preserve">
+    <value>تم_إزالة_دور_المستخدم_بنجاح</value>
+    <comment>تم_إزالة_دور_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRoleRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_دور_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_دور_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userRolesRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_أدوار_المستخدم_بنجاح</value>
+    <comment>تم_استرجاع_أدوار_المستخدم_بنجاح</comment>
+  </data>
+  <data name="usersExperienceRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_تجربة_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_تجربة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="usersRetrivedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مستخدمين_المؤسسة_بنجاح</value>
+    <comment>تم_استرجاع_مستخدمين_المؤسسة_بنجاح</comment>
+  </data>
+  <data name="userUpdatedSuccessfully" xml:space="preserve">
+    <value>تم_تحديث_المستخدم_بنجاح</value>
+    <comment>تم_تحديث_المستخدم_بنجاح</comment>
+  </data>
+  <data name="userUpdatedSuccessfully1" xml:space="preserve">
+    <value>تم_إضافة_المستخدم_بنجاح</value>
+    <comment>تم_إضافة_المستخدم_بنجاح</comment>
+  </data>
+  <data name="workspaceRetrievedSuccessfully" xml:space="preserve">
+    <value>تم_استرجاع_مساحة_العمل_بنجاح</value>
+    <comment>تم_استرجاع_مساحة_العمل_بنجاح</comment>
+  </data>
+</root>

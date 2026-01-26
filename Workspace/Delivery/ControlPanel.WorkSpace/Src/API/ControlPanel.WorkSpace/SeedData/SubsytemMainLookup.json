@@ -1,0 +1,51 @@
+﻿[
+  {
+    "Id": "EDAF3EE8-AB18-437B-A7BC-148914A0EEC9",
+    "NameAr": "قريبا .. الإطلاق",
+    "NameEn": "Coming Soon",
+    "CreatedOn": "2024-09-25 09:21:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "CD72518D-F93F-4821-9523-166C6D200C2E",
+    "NameAr": "جديد",
+    "NameEn": "new",
+    "CreatedOn": "2024-09-25 09:22:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "8FDE35CD-F594-4EEF-8AB2-6488EAFFB1FA",
+    "NameAr": "تم الاطلاق",
+    "NameEn": "Launched",
+    "CreatedOn": "2024-09-25 09:22:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "8FF863BA-459C-43A7-B6AF-081EA62A1F12",
+    "NameAr": "تحت التطوير",
+    "NameEn": "Under development",
+    "CreatedOn": "2024-09-25 09:22:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "D3C0A096-D12D-42DD-BE70-B193F610B9B9",
+    "NameAr": "Beta",
+    "NameEn": "Beta",
+    "CreatedOn": "2024-09-25 09:22:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "F95F1B40-A9AF-4EBB-AE95-A1FED7950FA2",
+    "NameAr": "Annovation",
+    "NameEn": "Annovation",
+    "CreatedOn": "2024-10-21 09:22:33.4653535",
+    "state": 0
+  },
+  {
+    "Id": "FCF47A61-3748-49E9-A3BE-A222F27CF97F",
+    "NameAr": "SSO",
+    "NameEn": "SSO",
+    "CreatedOn": "2024-10-21 13:22:33.4653535",
+    "state": 0
+  }
+]

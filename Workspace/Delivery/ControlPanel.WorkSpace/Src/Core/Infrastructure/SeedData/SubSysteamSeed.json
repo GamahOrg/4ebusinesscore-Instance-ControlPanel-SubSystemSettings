@@ -1,0 +1,1532 @@
+﻿[
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام مكتب الرئيس التفنيذي",
+    "NoteNameEn": "CEO Office System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+    "Url": "/admin-panel-hierararchy",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " مؤشر",
+        "NoteNameEn": "Indicator",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 1
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "اللجان والمجالس",
+        "NoteNameEn": "Committees & Councils",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 2
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " خطابات الرئيس التفيذى",
+        "NoteNameEn": "Ceo Letters",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 3
+      }
+    ]
+  },
+
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": " نظام ادارة المشاريع",
+    "NoteNameEn": "Projects Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-success\"><i class=\"fad fa-users fs-2x\"></i></span>",
+    "Url": "/admin-panel-users-workspace",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "دراسة جدوي جديدة",
+        "NoteNameEn": "New Feasibility Study",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 4,
+        "Description": "دراسة جدوي مشروع جديد"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "نظام إدارة المشاريع",
+        "NoteNameEn": "Projects Management System",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 5,
+        "Description": "عرض وإضافة المشاريع"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " مؤشرات إدارة المشاريع ",
+        "NoteNameEn": "PMO Indicators",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 6,
+        "Description": "تقارير ومؤشرات متابعة المشاريع",
+        "Children": [
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "التقارير المجدوله والدوريه",
+            "NoteNameEn": "Scheduled reports",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 70
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "Challenges board",
+            "NoteNameEn": "PMO Indicators",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 71
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "حاله المشاريع",
+            "NoteNameEn": "Projects status",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 72
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "حاله البنود",
+            "NoteNameEn": "Items status",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 73
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "مؤشرات كافه الاداء",
+            "NoteNameEn": "Performance indicators",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 74
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "حاله المخرجات",
+            "NoteNameEn": "Outputs status",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 75
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "التقرير المالي",
+            "NoteNameEn": "Financial report",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 76
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "المخاطر",
+            "NoteNameEn": "Risks",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 77
+          }
+        ]
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الموافقات العامة  ",
+        "NoteNameEn": "General Approval",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 7,
+        "Description": "موافقات المشاريع والمخرجات"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المخاطر",
+        "NoteNameEn": "Risks",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 8,
+        "Description": "جدول المخاطر"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المشاكل والتحديات ",
+        "NoteNameEn": " Problems & Challenges",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 9,
+        "Description": "تفاصيل المشاكل والتحديات"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "طلبات التغيير ",
+        "NoteNameEn": "Change Requests",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 10,
+        "Description": "كافة طلبات التغيير"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "دليل النماذج والعمليات  ",
+        "NoteNameEn": "Forms & Operations Guide",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 11,
+        "Description": "دليل مرجعي للوائح والقوانين"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "مسار الطلبات ",
+        "NoteNameEn": "Track Requests",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 12,
+        "Description": "مسار الطلبات"
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام ادارة المعرفه",
+    "NoteNameEn": "Knowledge Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-info\"><i class=\"fad fa-window-restore fs-2x\"></i></span>",
+    "Url": "/admin-panel-viewallcards",
+    "NoteTypeId": 0,
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "أسأل خبير",
+        "NoteNameEn": "Ask Expert",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 13,
+        "Description": "إستعراض وسؤال الخبير"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "بنك الأفكار",
+        "NoteNameEn": "Ideas Bank",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 14,
+        "Description": "إستعراض الأفكار"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "طرح تحدى",
+        "NoteNameEn": "Ask a Challenge",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 15,
+        "Description": "إستعراض وطرح تحديات جديدة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المدونات",
+        "NoteNameEn": "Blogging",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 16,
+        "Description": "إستعراض المدونان"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المعارف العامة",
+        "NoteNameEn": "General Knowledge",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 17,
+        "Description": "إستعراض المعارف الخاصة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المعارف الخاصة",
+        "NoteNameEn": "Own Knowledge",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 18,
+        "Description": "إستعراض المعارف العامة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "طلبات النشر",
+        "NoteNameEn": "Posting Requests",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 19,
+        "Description": "إستعراض طلبات النشر والموافقة عليها"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "أسئلتى",
+        "NoteNameEn": "My Questions",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 20,
+        "Description": "إستعراض الأسئلة الخاصة بالخبير"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " الخبراء",
+        "NoteNameEn": "Experts",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 21
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام ادارة اللجان",
+    "NoteNameEn": "Committee management system",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-primary\"><i class=\"fad fa-newspaper fs-2x\"></i></span>",
+    "Url": "/admin-panel-news",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " إستعراض اللجان",
+        "NoteNameEn": "Committees Reports",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 22,
+        "Description": "إستعراض اللجان الحالية وقيد التشكيل"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " تشكيل لجنة",
+        "NoteNameEn": "Committee Approval",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 23,
+        "Description": "طلب تشكيل لجنة جديدة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " إعتماد لجنة",
+        "NoteNameEn": "Committee Formation",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 24,
+        "Description": "إعتماد وتوثيق اللجنة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " تقارير اللجان",
+        "NoteNameEn": "Committees Review",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "Description": "إستعراض تقارير اللجان"
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام ادارة  الدعم الفني",
+    "NoteNameEn": "Technical Support Management system",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-success\"><i class=\"fad fa-database fs-2x\"></i></span>",
+    "Url": "/admin-panel-basic-data",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " بلاغات الدعم الفن",
+        "NoteNameEn": "Technical support feedbacks",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 25,
+        "Description": "عرض واضافة البلاغات"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " انشاء خدمة جديدة",
+        "NoteNameEn": "Create new service",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 26,
+        "Description": "انشاء خدمات خاصه بالادمن"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " إتفاقية مستوى الخدمة",
+        "NoteNameEn": "Service Level Agreement",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 27,
+        "Description": "عرض وإنشاء SLA"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " تقارير الدعم الفني",
+        "NoteNameEn": "Technical support reports",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 28,
+        "Description": "استعراض تقارير الدعم الفنى"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " بلاغ خدمة حالية",
+        "NoteNameEn": "Report current service",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 29,
+        "Description": "انا اواجه مشكلة"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " حلول بلاغات الدعم الفنى",
+        "NoteNameEn": "Technical support reports solutions",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 30,
+        "Description": "عرض حلول بلاغات الدعم الفنى"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " طلب خدمة جديدة",
+        "NoteNameEn": "Request new service",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 31,
+        "Description": "انا بحاجه الى شئ جديد"
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام لوحة التحكم",
+    "NoteNameEn": "Control Dashboards system",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"bi bi-journal-text fs-2x\"></i></span>",
+    "Url": "/committees-review",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الهيكل التنظيمي",
+        "NoteNameEn": "Organizational chart",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 32
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إدارة المستخدمين",
+        "NoteNameEn": "Users Management",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 33,
+        "Children": [
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "المستخدمين",
+            "NoteNameEn": "Users",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 78
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "المجموعات",
+            "NoteNameEn": "Groups",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 79
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "الادوار",
+            "NoteNameEn": "Roles",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 80
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "النطاقات",
+            "NoteNameEn": "Domains",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 81
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "الصلاحيات",
+            "NoteNameEn": "Permissions",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 82
+          }
+        ]
+      },
+        {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "إعدادات الأنظمة والخدمات",
+            "NoteNameEn": "Services & Tools Setting",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 1,
+            "WorkSpaceKey": 34
+        },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "البيانات الأساسية",
+        "NoteNameEn": "Basic Data",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 35
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الإعدادات العامه للمنصة",
+        "NoteNameEn": "Website general settings",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 36
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إعدادات الأنظمة",
+        "NoteNameEn": "Systems Setting",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 37
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام الاداء المؤسسي",
+    "NoteNameEn": "Organization Performance System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-primary\"><i class=\"fas fa-code-branch fs-2x\"></i></span>",
+    "Url": "/committee-formation",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إنشاء مؤشر جديد",
+        "NoteNameEn": "Create New Indicator",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 38,
+        "Description": "رؤية ومشاهدة بيانات المؤشر"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إدخال بيانات المؤشر",
+        "NoteNameEn": "Enter Indicator Data",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 39,
+        "Description": "إنشاء بيانات مؤشر جديد"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إستعراض مؤشر",
+        "NoteNameEn": "Indicator Review",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 40,
+        "Description": "رؤية ومشاهدة بيانات المؤشر"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "طلبات التغيير",
+        "NoteNameEn": "Change Requests",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 41,
+        "Description": "مشاهدة طلبات التغيير"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " الأهداف",
+        "NoteNameEn": "objectives",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 42,
+        "Description": "مشاهدة الأهداف"
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": " الأهداف",
+        "NoteNameEn": "Complete Indicator",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 43,
+
+        "Description": "إستكمال مؤشر سابق"
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": " نظام الاعلام الرقمي  ",
+    "NoteNameEn": "Digital Media System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-info\"><i class=\"fas fa-list-ul fs-2x\"></i></span>",
+    "Url": "/committee-approval",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إعدادات الأخبار",
+        "NoteNameEn": "News Setting ",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 44
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "عرض الأخبار",
+        "NoteNameEn": "View News",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 45
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "التعريف بالجهة",
+        "NoteNameEn": "Introducing the authority",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 46
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "لوحة الشرف",
+        "NoteNameEn": "Honorary Board",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 47
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "ملتقي الهيئة",
+        "NoteNameEn": "Authority Community",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 48
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "إعدادات الإعلانات",
+        "NoteNameEn": "Advertisement Setting",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 49
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "عرض الإعلانات",
+        "NoteNameEn": "ViewAdvertisement",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 50
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الفعاليات",
+        "NoteNameEn": "Events",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 51
+      }
+    ]
+  },
+
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام ادارة المهام",
+    "NoteNameEn": "Tasks Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-success\"><i class=\"fad fa-analytics fs-2x\"></i></span>",
+    "Url": "/committee-reports",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "مهام الموظفين",
+        "NoteNameEn": "Employees Tasks",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 52
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "سجل المهام",
+        "NoteNameEn": "Task History",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 53
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "جدول المهام",
+        "NoteNameEn": "Tasks Table",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 54
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "مؤشرات المهام",
+        "NoteNameEn": "Task Indicators",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 55
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "أنظام ادارة الاجتماعات",
+    "NoteNameEn": "Meetings Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-success\"><i class=\"bi bi-person-video3 fs-2x\"></i></span>",
+    "Url": "/knowledge-ask-expert",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "اجندة الاجتماعات",
+        "NoteNameEn": "Meetings Agenda",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 56
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "قاعات الاجتماعات",
+        "NoteNameEn": "Meetings Rooms",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 57
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "قائمة الاجتماعات",
+        "NoteNameEn": "Meetings List",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 58
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "اضافة اجتماعات",
+        "NoteNameEn": "Add Meetings",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 59
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": "نظام ادارة الاجنده  ",
+    "NoteNameEn": "Agenda Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-primary\"><i class=\"bi bi-lightbulb fs-2x\"></i></span>",
+    "Url": "/knowledge-ideas-bank",
+    "NoteTypeId": 0
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": " نظام ادارة البيانات ",
+    "NoteNameEn": "Data Management System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-exclamation-triangle fs-2x\"></i></span>",
+    "Url": "/knowledge-ask-challenge",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "التقارير",
+        "NoteNameEn": "Reports",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 60
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "مؤشر",
+        "NoteNameEn": "Indicator",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 61
+      }
+    ]
+  },
+  {
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "UpdatedOn": "2023-03-15 02:21:33.4653535",
+    "VisitDate": "2023-03-15 02:21:33.4653535",
+    "NoteNameAr": " نظام ادارة الادوات المساعده",
+    "NoteNameEn": "Help Tools System",
+    "Color": 1,
+    "IsActive": 1,
+    "State": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-success\"><i class=\"bi bi-chat-text fs-2x\"></i></span>",
+    "Url": "/knowledge-blogging",
+    "NoteTypeId": 0,
+
+    "Children": [
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "البريد الإلكترونى",
+        "NoteNameEn": "Email",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 62
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "مدير الملفات",
+        "NoteNameEn": "Files Manager",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 63
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "المحادثات",
+        "NoteNameEn": "Chats",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 64
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الإشعارات",
+        "NoteNameEn": "Notifications",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 65
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "فريق العمل",
+        "NoteNameEn": "Teams",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 66
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "تطبيقات الهيئة",
+        "NoteNameEn": "Authority Apps",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 67
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "صوت الموطف",
+        "NoteNameEn": "Employee Voice",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 68
+      },
+      {
+        "CreatedOn": "2023-03-15 02:21:33.4653535",
+        "UpdatedOn": "2023-03-15 02:21:33.4653535",
+        "VisitDate": "2023-03-15 02:21:33.4653535",
+        "NoteNameAr": "الإستبيانات",
+        "NoteNameEn": "Questionnaires",
+        "Color": 1,
+        "IsActive": 1,
+        "State": 0,
+        "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+        "Url": "/admin-panel-hierararchy",
+
+        "NoteTypeId": 1,
+        "WorkSpaceKey": 69,
+        "Children": [
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "إنشاء الاستبيان",
+            "NoteNameEn": "Create the questionnaire",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 83
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "استعراض الاستبيانات",
+            "NoteNameEn": "Review questionnaires",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 84
+          },
+          {
+            "CreatedOn": "2023-03-15 02:21:33.4653535",
+            "UpdatedOn": "2023-03-15 02:21:33.4653535",
+            "VisitDate": "2023-03-15 02:21:33.4653535",
+            "NoteNameAr": "نتائج الاستبيانات",
+            "NoteNameEn": "Results of questionnaires",
+            "Color": 1,
+            "IsActive": 1,
+            "State": 0,
+            "Icon": "<span class=\"svg-icon svg-icon-4x svg-icon-warning\"><i class=\"fad fa-sitemap fs-2x\"></i></span>",
+            "Url": "/admin-panel-hierararchy",
+
+            "NoteTypeId": 2,
+            "WorkSpaceKey": 85
+          }
+        ]
+      }
+    ]
+  }
+]

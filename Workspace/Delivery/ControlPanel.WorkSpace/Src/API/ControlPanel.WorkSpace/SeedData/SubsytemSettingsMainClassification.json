@@ -1,0 +1,111 @@
+﻿[
+  {
+    "Id": "b57bc288-08f3-4812-9bbf-c62e223eea49",
+    "NameAr": "جميع ألانظمة",
+    "NameEn": "All System",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-solid fa-globe\"></i>",
+    "Squence": 0
+  },
+  {
+    "Id": "93e33a65-57b7-4615-a47a-cbf9c9f683e1",
+    "NameAr": "دعم واتخاذ القرار",
+    "NameEn": "Support and decision making",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-solid fa-paperclip\"></i>",
+    "Squence": 1
+  },
+  {
+    "Id": "c60b9347-5d73-44cc-8c38-59a82895eed8",
+    "NameAr": "الإستراتيجية و المشروعات",
+    "NameEn": "Strategy and projects",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-solid fa-chess-rook\"></i>",
+    "Squence": 2
+  },
+
+
+  {
+    "Id": "6039c886-5e75-4daf-888e-7b4f86292edd",
+    "NameAr": "أنظمة رفع الكفاءة",
+    "NameEn": "Efficiency raising systems",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fas fa-wrench\"></i>",
+    "Squence": 3
+  },
+  {
+    "Id": "091ac447-cd8b-4fcd-8375-3d8fc473936f",
+    "NameAr": "الأنظمة المؤسسية",
+    "NameEn": "Institutional systems",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fad fa-sitemap fs-2x\"></i>",
+    "Squence": 4
+  },
+  {
+    "Id": "7d518168-f13f-4a69-b700-c882f05adf55",
+    "NameAr": "التحكم والمراقبة",
+    "NameEn": "Control and monitoring",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-brands fa-apple\"></i>",
+    "Squence": 5
+  },
+  {
+    "Id": "1df08d2d-8a43-4088-8e50-f740ecf0357d",
+    "NameAr": "الهوية المؤسسية",
+    "NameEn": "Corporate identity",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-brands fa-redhat\"></i>",
+    "Squence": 6
+  },
+  {
+    "Id": "8055d90e-083d-4281-bf21-03808e7761a2",
+    "NameAr": "أنظمة التواصل المؤسسى",
+    "NameEn": "Corporate communication systems",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-brands fa-apple\"></i>",
+    "Squence": 7
+  },
+  {
+    "Id": "5abd4248-ad89-457f-bb59-1e0e7e6de2e5",
+    "NameAr": "أنظمة البيانات",
+    "NameEn": "Data systems",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<span class='svg-icon svg-icon-4x svg-icon-info'><i class='fa-solid fa-circle-exclamation fs-3x'></i></span>",
+    "Squence": 8
+  },
+  {
+    "Id": "ad7ce64c-dcb0-4174-af06-ce2c5d903717",
+    "NameAr": "انظمة الــ GRC",
+    "NameEn": "GRC Systems",
+    "CreatedOn": "2023-03-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<i class=\"fa-solid fa-paperclip\"></i>",
+    "Squence": 9
+  },
+  {
+    "Id": "FD2608CC-D23C-4E85-BDAC-D5232F6EDF3C",
+    "NameAr": "نظام الدخول الموحد (SSO)",
+    "NameEn": "Single Sign-On System (SSO)",
+    "CreatedOn": "2024-09-15 02:21:33.4653535",
+    "state": 0,
+    "Icon": "<span class=\"svg-icon svg-icon-4x\"><i class=\"fad fa-file fs-3x\"></i></span>",
+    "Squence": 10
+  }
+  //{
+  //  "Id": "5b5e2112-9c93-48bc-b9ad-7b1afb49dee4",
+  //  "NameAr": "قريبا .. الإطلاق",
+  //  "NameEn": "Coming Soon",
+  //  "CreatedOn": "2023-03-15 02:21:33.4653535",
+  //  "state": 0,
+  //  "Squence": 11
+  //}
+]

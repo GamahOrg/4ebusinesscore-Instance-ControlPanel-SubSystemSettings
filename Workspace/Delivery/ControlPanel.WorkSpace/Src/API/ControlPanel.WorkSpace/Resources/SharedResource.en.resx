@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="accountNotFoundOrPasswordNotValid" xml:space="preserve">
+    <value>Account Not Found Or Password Not Valid</value>
+    <comment>Account Not Found Or Password Not Valid</comment>
+  </data>
+  <data name="alternaiveUserDeletedSuccessfully" xml:space="preserve">
+    <value>Alternative User Deleted Successfully</value>
+    <comment>Alternative User Deleted Successfully</comment>
+  </data>
+  <data name="alternaiveUserRetrievedSuccessfully" xml:space="preserve">
+    <value>Alternative User Retrieved Successfully</value>
+    <comment>Alternative User Retrieved Successfully</comment>
+  </data>
+  <data name="alternaiveUserSavedSuccessfully" xml:space="preserve">
+    <value>Alternative User Saved Successfully</value>
+    <comment>Alternative User Saved Successfully</comment>
+  </data>
+  <data name="alternaiveUserUpdatedSuccessfully" xml:space="preserve">
+    <value>Alternative User Updated Successfully</value>
+    <comment>Alternative User Updated Successfully</comment>
+  </data>
+  <data name="alternativesNotFound" xml:space="preserve">
+    <value>Alternatives Not Found</value>
+    <comment>Alternatives Not Found</comment>
+  </data>
+  <data name="anErrorOccurredPleaseContactSystemAdministrator" xml:space="preserve">
+    <value>An Error Occurred Please Contact System Administrator</value>
+    <comment>An Error Occurred Please Contact System Administrator</comment>
+  </data>
+  <data name="basicRetrievedSuccessfully" xml:space="preserve">
+    <value>Basic Retrieved Successfully</value>
+    <comment>Basic Retrieved Successfully</comment>
+  </data>
+  <data name="codedon'tMatch" xml:space="preserve">
+    <value>Code Doesn't Match</value>
+    <comment>Code Doesn't Match</comment>
+  </data>
+  <data name="domainAddedSuccessfully" xml:space="preserve">
+    <value>Domain Added Successfully</value>
+    <comment>Domain Added Successfully</comment>
+  </data>
+  <data name="domainNotFound" xml:space="preserve">
+    <value>Domain Not Found</value>
+    <comment>Domain Not Found</comment>
+  </data>
+  <data name="domainNotFound1" xml:space="preserve">
+    <value>Domain Not Found</value>
+    <comment>Domain Not Found</comment>
+  </data>
+  <data name="domainNotFound2" xml:space="preserve">
+    <value>Domain Not Found</value>
+    <comment>Domain Not Found</comment>
+  </data>
+  <data name="domainRemovedSuccessfully" xml:space="preserve">
+    <value>Domain Removed Successfully</value>
+    <comment>Domain Removed Successfully</comment>
+  </data>
+  <data name="domainsNotFound" xml:space="preserve">
+    <value>Domains Not Found</value>
+    <comment>Domains Not Found</comment>
+  </data>
+  <data name="domainsRetrievedSuccessfully" xml:space="preserve">
+    <value>Domains Retrieved Successfully</value>
+    <comment>Domains Retrieved Successfully</comment>
+  </data>
+  <data name="domainsUserNotFound" xml:space="preserve">
+    <value>Domains User Not Found</value>
+    <comment>Domains User Not Found</comment>
+  </data>
+  <data name="domainsUserRetrievedSuccessfully" xml:space="preserve">
+    <value>Domains User Retrieved Successfully</value>
+    <comment>Domains User Retrieved Successfully</comment>
+  </data>
+  <data name="domainsUserRetrievedSuccessfully1" xml:space="preserve">
+    <value>Domains User Retrieved Successfully</value>
+    <comment>Domains User Retrieved Successfully</comment>
+  </data>
+  <data name="domainUpdatedSuccessfully" xml:space="preserve">
+    <value>Domain Updated Successfully</value>
+    <comment>Domain Updated Successfully</comment>
+  </data>
+  <data name="faildedtofind" xml:space="preserve">
+    <value>Failed To Find</value>
+    <comment>Failed To Find</comment>
+  </data>
+  <data name="failedUserAdd" xml:space="preserve">
+    <value>Failed User Add</value>
+    <comment>Failed User Add</comment>
+  </data>
+  <data name="failedUserAdd1" xml:space="preserve">
+    <value>Failed User Add</value>
+    <comment>Failed User Add</comment>
+  </data>
+  <data name="forgetPasswordSuccess" xml:space="preserve">
+    <value>Forget Password Success</value>
+    <comment>Forget Password Success</comment>
+  </data>
+  <data name="groupAddedSuccessfully" xml:space="preserve">
+    <value>Group Added Successfully</value>
+    <comment>Group Added Successfully</comment>
+  </data>
+  <data name="groupDeletedSuccessfully" xml:space="preserve">
+    <value>Group Deleted Successfully</value>
+    <comment>Group Deleted Successfully</comment>
+  </data>
+  <data name="groupFailedToFind" xml:space="preserve">
+    <value>Group Failed To Find</value>
+    <comment>Group Failed To Find</comment>
+  </data>
+  <data name="grouplogAddedSuccessfully" xml:space="preserve">
+    <value>Group Log Added Successfully</value>
+    <comment>Group Log Added Successfully</comment>
+  </data>
+  <data name="groupNotFound" xml:space="preserve">
+    <value>Group Not Found</value>
+    <comment>Group Not Found</comment>
+  </data>
+  <data name="groupRetrivedSuccessfully" xml:space="preserve">
+    <value>Group Retrieved Successfully</value>
+    <comment>Group Retrieved Successfully</comment>
+  </data>
+  <data name="groupRoleRetrivedSuccessfully" xml:space="preserve">
+    <value>Group Role Retrieved Successfully</value>
+    <comment>Group Role Retrieved Successfully</comment>
+  </data>
+  <data name="groupsRetrivedSuccessfully" xml:space="preserve">
+    <value>Groups Retrieved Successfully</value>
+    <comment>Groups Retrieved Successfully</comment>
+  </data>
+  <data name="groupsRetrivedSuccessfully1" xml:space="preserve">
+    <value>Groups Retrieved Successfully</value>
+    <comment>Groups Retrieved Successfully</comment>
+  </data>
+  <data name="groupUpdatedSuccessfully" xml:space="preserve">
+    <value>Group Updated Successfully</value>
+    <comment>Group Updated Successfully</comment>
+  </data>
+  <data name="groupUsersAddedSuccessfully" xml:space="preserve">
+    <value>Group Users Added Successfully</value>
+    <comment>Group Users Added Successfully</comment>
+  </data>
+  <data name="groupUsersAddedSuccessfully1" xml:space="preserve">
+    <value>Group Users Added Successfully</value>
+    <comment>Group Users Added Successfully</comment>
+  </data>
+  <data name="homePagesAddedSuccessfully" xml:space="preserve">
+    <value>Home Pages Added Successfully</value>
+    <comment>Home Pages Added Successfully</comment>
+  </data>
+  <data name="homePagesRetrievedSuccessfully" xml:space="preserve">
+    <value>Home Pages Retrieved Successfully</value>
+    <comment>Home Pages Retrieved Successfully</comment>
+  </data>
+  <data name="mustIncludeUserToUpdate" xml:space="preserve">
+    <value>Must Include User To Update</value>
+    <comment>Must Include User To Update</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrInvalidToken" xml:space="preserve">
+    <value>New Password Not Matching Password Criteria Or Invalid Token</value>
+    <comment>New Password Not Matching Password Criteria Or Invalid Token</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrOldPasswordIsIncorrect" xml:space="preserve">
+    <value>New Password Not Matching Password Criteria Or Old Password Is Incorrect</value>
+    <comment>New Password Not Matching Password Criteria Or Old Password Is Incorrect</comment>
+  </data>
+  <data name="newPasswordNotMatchingPasswordCriteriaOrOldPasswordIsIncorrect1" xml:space="preserve">
+    <value>New Password Not Matching Password Criteria Or Old Password Is Incorrect</value>
+    <comment>New Password Not Matching Password Criteria Or Old Password Is Incorrect</comment>
+  </data>
+  <data name="ObjectNotFound" xml:space="preserve">
+    <value>Object Not Found</value>
+    <comment>Object Not Found</comment>
+  </data>
+  <data name="orgsRetrivedSuccessfully" xml:space="preserve">
+    <value>Orgs Retrieved Successfully</value>
+    <comment>Orgs Retrieved Successfully</comment>
+  </data>
+  <data name="orgUsersRetrivedSuccessfully" xml:space="preserve">
+    <value>Org Users Retrieved Successfully</value>
+    <comment>Org Users Retrieved Successfully</comment>
+  </data>
+  <data name="passwordChangedSuccessfully" xml:space="preserve">
+    <value>Password Changed Successfully</value>
+    <comment>Password Changed Successfully</comment>
+  </data>
+  <data name="passwordChangedSuccessfully1" xml:space="preserve">
+    <value>Password Changed Successfully</value>
+    <comment>Password Changed Successfully</comment>
+  </data>
+  <data name="passwordIsNotCorrect" xml:space="preserve">
+    <value>Password Is Not Correct</value>
+    <comment>Password Is Not Correct</comment>
+  </data>
+  <data name="passwordResetedSuccessfully" xml:space="preserve">
+    <value>Password Reset Successfully</value>
+    <comment>Password Reset Successfully</comment>
+  </data>
+  <data name="permissionAddedSuccessfully" xml:space="preserve">
+    <value>Permission Added Successfully</value>
+    <comment>Permission Added Successfully</comment>
+  </data>
+  <data name="permissionDeletedSuccessfully" xml:space="preserve">
+    <value>Permission Deleted Successfully</value>
+    <comment>Permission Deleted Successfully</comment>
+  </data>
+  <data name="permissionNotFound" xml:space="preserve">
+    <value>Permission Not Found</value>
+    <comment>Permission Not Found</comment>
+  </data>
+  <data name="permissionRetrivedSuccessfully" xml:space="preserve">
+    <value>Permission Retrieved Successfully</value>
+    <comment>Permission Retrieved Successfully</comment>
+  </data>
+  <data name="permissionsRetrivedSuccessfully" xml:space="preserve">
+    <value>Permissions Retrieved Successfully</value>
+    <comment>Permissions Retrieved Successfully</comment>
+  </data>
+  <data name="permissionUpdatedSuccessfully" xml:space="preserve">
+    <value>Permission Updated Successfully</value>
+    <comment>Permission Updated Successfully</comment>
+  </data>
+  <data name="quickAccessAddedSuccessfully" xml:space="preserve">
+    <value>Quick Access Added Successfully</value>
+    <comment>Quick Access Added Successfully</comment>
+  </data>
+  <data name="quickAccessIsFoundBefore" xml:space="preserve">
+    <value>Quick Access Is Found Before</value>
+    <comment>Quick Access Is Found Before</comment>
+  </data>
+  <data name="quickAccessMustBeAtleastHave6Items" xml:space="preserve">
+    <value>Quick Access Must Be At Least Have 6 Items</value>
+    <comment>Quick Access Must Be At Least Have 6 Items</comment>
+  </data>
+  <data name="quickAccessNotFound" xml:space="preserve">
+    <value>Quick Access Not Found</value>
+    <comment>Quick Access Not Found</comment>
+  </data>
+  <data name="quickAccessRetrivedSuccessfully" xml:space="preserve">
+    <value>Quick Access Retrieved Successfully</value>
+    <comment>Quick Access Retrieved Successfully</comment>
+  </data>
+  <data name="quickAccessUpdatedSuccessfully" xml:space="preserve">
+    <value>Quick Access Updated Successfully</value>
+    <comment>Quick Access Updated Successfully</comment>
+  </data>
+  <data name="roleAddedSuccessfully" xml:space="preserve">
+    <value>Role Added Successfully</value>
+    <comment>Role Added Successfully</comment>
+  </data>
+  <data name="roleCategoriesRetrievedSuccessfully" xml:space="preserve">
+    <value>Role Categories Retrieved Successfully</value>
+    <comment>Role Categories Retrieved Successfully</comment>
+  </data>
+  <data name="roleCategoryAddedSuccessfully" xml:space="preserve">
+    <value>Role Category Added Successfully</value>
+    <comment>Role Category Added Successfully</comment>
+  </data>
+  <data name="roleDeletedSuccessfully" xml:space="preserve">
+    <value>Role Deleted Successfully</value>
+    <comment>Role Deleted Successfully</comment>
+  </data>
+  <data name="roleRetrivedSuccessfully" xml:space="preserve">
+    <value>Role Retrieved Successfully</value>
+    <comment>Role Retrieved Successfully</comment>
+  </data>
+  <data name="roleRetrivedSuccessfully1" xml:space="preserve">
+    <value>Role Retrieved Successfully</value>
+    <comment>Role Retrieved Successfully</comment>
+  </data>
+  <data name="rolesRetrivedSuccessfully" xml:space="preserve">
+    <value>Roles Retrieved Successfully</value>
+    <comment>Roles Retrieved Successfully</comment>
+  </data>
+  <data name="roleUpdatedSuccessfully" xml:space="preserve">
+    <value>Role Updated Successfully</value>
+    <comment>Role Updated Successfully</comment>
+  </data>
+  <data name="serviceAccountNotFoundOrConnectionToADNotAllowed" xml:space="preserve">
+    <value>Service Account Not Found Or Connection To AD Not Allowed</value>
+    <comment>Service Account Not Found Or Connection To AD Not Allowed</comment>
+  </data>
+  <data name="serviceAccountNotFoundOrConnectionToADNotAllowed1" xml:space="preserve">
+    <value>Service Account Not Found Or Connection To AD Not Allowed</value>
+    <comment>Service Account Not Found Or Connection To AD Not Allowed</comment>
+  </data>
+  <data name="userAddedSuccessfully" xml:space="preserve">
+    <value>User Added Successfully</value>
+    <comment>User Added Successfully</comment>
+  </data>
+  <data name="userAddedSuccessfully1" xml:space="preserve">
+    <value>User Added Successfully</value>
+    <comment>User Added Successfully</comment>
+  </data>
+  <data name="userAddedSuccessfully2" xml:space="preserve">
+    <value>User Added Successfully</value>
+    <comment>User Added Successfully</comment>
+  </data>
+  <data name="userAlreadyAlternative" xml:space="preserve">
+    <value>User Already Alternative</value>
+    <comment>User Already Alternative</comment>
+  </data>
+  <data name="userAlreadyAlternative1" xml:space="preserve">
+    <value>User Already Alternative</value>
+    <comment>User Already Alternative</comment>
+  </data>
+  <data name="userBasicInformationRetrivedSuccessfully" xml:space="preserve">
+    <value>User Basic Information Retrieved Successfully</value>
+    <comment>User Basic Information Retrieved Successfully</comment>
+  </data>
+  <data name="userBasicInformationUpdatedSuccessfully" xml:space="preserve">
+    <value>User Basic Information Updated Successfully</value>
+    <comment>User Basic Information Updated Successfully</comment>
+  </data>
+  <data name="userCountRetrivedSuccessfully" xml:space="preserve">
+    <value>User Count Retrieved Successfully</value>
+    <comment>User Count Retrieved Successfully</comment>
+  </data>
+  <data name="userDeletedSuccessfully" xml:space="preserve">
+    <value>User Deleted Successfully</value>
+    <comment>User Deleted Successfully</comment>
+  </data>
+  <data name="userExperienceAddedSuccessfully" xml:space="preserve">
+    <value>User Experience Added Successfully</value>
+    <comment>User Experience Added Successfully</comment>
+  </data>
+  <data name="userExperienceDeletedSuccessfully" xml:space="preserve">
+    <value>User Experience Deleted Successfully</value>
+    <comment>User Experience Deleted Successfully</comment>
+  </data>
+  <data name="userExperienceRetrivedSuccessfully" xml:space="preserve">
+    <value>User Experience Retrieved Successfully</value>
+    <comment>User Experience Retrieved Successfully</comment>
+  </data>
+  <data name="userExperienceUpdatedSuccessfully" xml:space="preserve">
+    <value>User Experience Updated Successfully</value>
+    <comment>User Experience Updated Successfully</comment>
+  </data>
+  <data name="userGroupsRetrivedSuccessfully" xml:space="preserve">
+    <value>User Groups Retrieved Successfully</value>
+    <comment>User Groups Retrieved Successfully</comment>
+  </data>
+  <data name="userHierarchyUpdatedSuccessfully" xml:space="preserve">
+    <value>User Hierarchy Updated Successfully</value>
+    <comment>User Hierarchy Updated Successfully</comment>
+  </data>
+  <data name="userHomePagesRetrievedSuccessfully" xml:space="preserve">
+    <value>User Home Pages Retrieved Successfully</value>
+    <comment>User Home Pages Retrieved Successfully</comment>
+  </data>
+  <data name="userImageAddedSuccessfully" xml:space="preserve">
+    <value>User Image Added Successfully</value>
+    <comment>User Image Added Successfully</comment>
+  </data>
+  <data name="userJobRetrivedSuccessfully" xml:space="preserve">
+    <value>User Job Retrieved Successfully</value>
+    <comment>User Job Retrieved Successfully</comment>
+  </data>
+  <data name="userJobUpdatedSuccessfully" xml:space="preserve">
+    <value>User Job Updated Successfully</value>
+    <comment>User Job Updated Successfully</comment>
+  </data>
+  <data name="userLoggedInSuccessfully" xml:space="preserve">
+    <value>User Logged In Successfully</value>
+    <comment>User Logged In Successfully</comment>
+  </data>
+  <data name="userLoggedInSuccessfully1" xml:space="preserve">
+    <value>User Logged In Successfully</value>
+    <comment>User Logged In Successfully</comment>
+  </data>
+  <data name="userNameNotFound" xml:space="preserve">
+    <value>User Name Not Found</value>
+    <comment>User Name Not Found</comment>
+  </data>
+  <data name="userNotFound" xml:space="preserve">
+    <value>User Not Found</value>
+    <comment>User Not Found</comment>
+  </data>
+  <data name="userPermissionUpdatedSuccessfully" xml:space="preserve">
+    <value>User Permission Updated Successfully</value>
+    <comment>User Permission Updated Successfully</comment>
+  </data>
+  <data name="userPictureIsRequired" xml:space="preserve">
+    <value>User Picture Is Required</value>
+    <comment>User Picture Is Required</comment>
+  </data>
+  <data name="userRemovedSuccessfully" xml:space="preserve">
+    <value>User Removed Successfully</value>
+    <comment>User Removed Successfully</comment>
+  </data>
+  <data name="userRetrivedSuccessfully" xml:space="preserve">
+    <value>User Retrieved Successfully</value>
+    <comment>User Retrieved Successfully</comment>
+  </data>
+  <data name="userRetrivedSuccessfully1" xml:space="preserve">
+    <value>User Retrieved Successfully</value>
+    <comment>User Retrieved Successfully</comment>
+  </data>
+  <data name="userRetrivedSuccessfully2" xml:space="preserve">
+    <value>User Retrieved Successfully</value>
+    <comment>User Retrieved Successfully</comment>
+  </data>
+  <data name="userRetrivedSuccessfully3" xml:space="preserve">
+    <value>User Retrieved Successfully</value>
+    <comment>User Retrieved Successfully</comment>
+  </data>
+  <data name="userRoleAddedSuccessfully" xml:space="preserve">
+    <value>User Role Added Successfully</value>
+    <comment>User Role Added Successfully</comment>
+  </data>
+  <data name="userRoleDeletedSuccessfully" xml:space="preserve">
+    <value>User Role Deleted Successfully</value>
+    <comment>User Role Deleted Successfully</comment>
+  </data>
+  <data name="userRoleRemovedSuccessfully" xml:space="preserve">
+    <value>User Role Removed Successfully</value>
+    <comment>User Role Removed Successfully</comment>
+  </data>
+  <data name="userRoleRetrivedSuccessfully" xml:space="preserve">
+    <value>User Role Retrieved Successfully</value>
+    <comment>User Role Retrieved Successfully</comment>
+  </data>
+  <data name="userRolesRetrivedSuccessfully" xml:space="preserve">
+    <value>User Roles Retrieved Successfully</value>
+    <comment>User Roles Retrieved Successfully</comment>
+  </data>
+  <data name="usersExperienceRetrivedSuccessfully" xml:space="preserve">
+    <value>Users Experience Retrieved Successfully</value>
+    <comment>Users Experience Retrieved Successfully</comment>
+  </data>
+  <data name="usersRetrivedSuccessfully" xml:space="preserve">
+    <value>Users Retrieved Successfully</value>
+    <comment>Users Retrieved Successfully</comment>
+  </data>
+  <data name="userUpdatedSuccessfully" xml:space="preserve">
+    <value>User Updated Successfully</value>
+    <comment>User Updated Successfully</comment>
+  </data>
+  <data name="userUpdatedSuccessfully1" xml:space="preserve">
+    <value>User Updated Successfully</value>
+    <comment>User Updated Successfully</comment>
+  </data>
+  <data name="workspaceRetrievedSuccessfully" xml:space="preserve">
+    <value>Workspace Retrieved Successfully</value>
+    <comment>Workspace Retrieved Successfully</comment>
+  </data>
+</root>
